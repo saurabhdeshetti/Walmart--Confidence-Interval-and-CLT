@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-for-Walmart
+# Walmart - Confidence Interval and CLT
 ## About Data
 Walmart is an American multinational retail corporation that operates a chain of supercenters, discount departmental stores, and grocery stores in the United States.
 Walmart has more than 100 million customers worldwide.
